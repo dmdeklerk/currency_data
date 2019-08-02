@@ -1,0 +1,1 @@
+﻿{"symbol":"CTXC","name":"Cortex Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0xea11755ae41d889ceec39a63e6ff75a02bc1c00d","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

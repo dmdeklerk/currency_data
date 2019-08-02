@@ -1,0 +1,1 @@
+﻿{"symbol":"CARD","name":"Cardstack Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x954b890704693af242613edef1b603825afcd708","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

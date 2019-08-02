@@ -1,0 +1,1 @@
+﻿{"symbol":"PRO","name":"Pro Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x9041fe5b3fdea0f5e4afdc17e75180738d877a01","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

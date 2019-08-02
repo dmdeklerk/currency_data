@@ -1,0 +1,1 @@
+﻿{"symbol":"MTN","name":"MedToken","assetType":{"$ref":"eth:erc20"},"assetId":"0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

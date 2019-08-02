@@ -1,0 +1,1 @@
+﻿{"symbol":"SWFTC","name":"SwftCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

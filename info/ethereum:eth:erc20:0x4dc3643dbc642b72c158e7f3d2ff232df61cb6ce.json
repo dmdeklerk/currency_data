@@ -1,0 +1,1 @@
+﻿{"symbol":"AMB","name":"Amber Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"RHOC","name":"RChain","assetType":{"$ref":"eth:erc20"},"assetId":"0x168296bb09e24a88805cb9c33356536b980d3fc5","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

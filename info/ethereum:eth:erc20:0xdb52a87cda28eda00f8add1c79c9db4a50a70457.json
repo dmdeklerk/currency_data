@@ -1,0 +1,1 @@
+﻿{"symbol":"TRC","name":"Trader Cash","assetType":{"$ref":"eth:erc20"},"assetId":"0xdb52a87cda28eda00f8add1c79c9db4a50a70457","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

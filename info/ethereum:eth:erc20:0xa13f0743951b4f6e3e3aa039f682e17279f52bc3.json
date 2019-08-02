@@ -1,0 +1,1 @@
+﻿{"symbol":"SENC","name":"Sentinel Chain","assetType":{"$ref":"eth:erc20"},"assetId":"0xa13f0743951b4f6e3e3aa039f682e17279f52bc3","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

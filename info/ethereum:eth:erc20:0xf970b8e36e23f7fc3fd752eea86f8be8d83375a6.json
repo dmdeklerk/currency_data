@@ -1,0 +1,1 @@
+﻿{"symbol":"RCN","name":"Ripio Credit Network","assetType":{"$ref":"eth:erc20"},"assetId":"0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

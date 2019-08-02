@@ -1,0 +1,1 @@
+﻿{"symbol":"TOMO","name":"Tomochain","assetType":{"$ref":"eth:erc20"},"assetId":"0x8b353021189375591723e7384262f45709a3c3dc","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

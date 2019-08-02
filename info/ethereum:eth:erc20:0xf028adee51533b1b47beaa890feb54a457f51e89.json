@@ -1,0 +1,1 @@
+﻿{"symbol":"BMT","name":"BMChain Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xf028adee51533b1b47beaa890feb54a457f51e89","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

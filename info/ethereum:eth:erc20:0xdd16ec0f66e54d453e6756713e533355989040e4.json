@@ -1,0 +1,1 @@
+﻿{"symbol":"TEN","name":"Tokenomy","assetType":{"$ref":"eth:erc20"},"assetId":"0xdd16ec0f66e54d453e6756713e533355989040e4","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

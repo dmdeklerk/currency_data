@@ -1,0 +1,1 @@
+﻿{"symbol":"EVX","name":"EVX Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8","blockchain":{"$ref":"ethereum"},"decimals":4,"icon":"*"}

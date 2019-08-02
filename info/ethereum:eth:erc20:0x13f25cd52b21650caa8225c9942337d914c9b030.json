@@ -1,0 +1,1 @@
+﻿{"symbol":"RCT","name":"realchain","assetType":{"$ref":"eth:erc20"},"assetId":"0x13f25cd52b21650caa8225c9942337d914c9b030","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

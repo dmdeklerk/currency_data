@@ -1,0 +1,1 @@
+﻿{"symbol":"THRT","name":"Thrive Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x4f27053f32eda8af84956437bc00e5ffa7003287","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

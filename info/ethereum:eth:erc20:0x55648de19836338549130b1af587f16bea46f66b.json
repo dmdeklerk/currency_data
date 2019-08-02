@@ -1,0 +1,1 @@
+﻿{"symbol":"PBL","name":"Pebbles Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x55648de19836338549130b1af587f16bea46f66b","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

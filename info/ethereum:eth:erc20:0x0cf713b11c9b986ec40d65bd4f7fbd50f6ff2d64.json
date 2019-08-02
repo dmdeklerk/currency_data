@@ -1,0 +1,1 @@
+﻿{"symbol":"IST34","name":"IST34 Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x0cf713b11c9b986ec40d65bd4f7fbd50f6ff2d64","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

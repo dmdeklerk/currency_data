@@ -1,0 +1,1 @@
+﻿{"symbol":"LBA","name":"LibraToken","assetType":{"$ref":"eth:erc20"},"assetId":"0xfe5f141bf94fe84bc28ded0ab966c16b17490657","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

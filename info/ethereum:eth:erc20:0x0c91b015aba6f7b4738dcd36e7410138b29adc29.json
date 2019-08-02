@@ -1,0 +1,1 @@
+﻿{"symbol":"COIL","name":"CoinOil","assetType":{"$ref":"eth:erc20"},"assetId":"0x0c91b015aba6f7b4738dcd36e7410138b29adc29","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

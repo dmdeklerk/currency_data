@@ -1,0 +1,1 @@
+﻿{"symbol":"RDN","name":"Raiden Network","assetType":{"$ref":"eth:erc20"},"assetId":"0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

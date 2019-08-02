@@ -1,0 +1,1 @@
+﻿{"symbol":"BANCA","name":"Banca Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x998b3b82bc9dba173990be7afb772788b5acb8bd","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

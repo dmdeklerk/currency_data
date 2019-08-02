@@ -1,0 +1,1 @@
+﻿{"symbol":"MIC","name":"Mindexcoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x3a1237d38d0fb94513f85d61679cad7f38507242","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

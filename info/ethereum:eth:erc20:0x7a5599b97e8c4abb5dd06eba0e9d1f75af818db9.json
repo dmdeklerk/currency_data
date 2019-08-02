@@ -1,0 +1,1 @@
+﻿{"symbol":"RTC","name":"OSMOTIC Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x7a5599b97e8c4abb5dd06eba0e9d1f75af818db9","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

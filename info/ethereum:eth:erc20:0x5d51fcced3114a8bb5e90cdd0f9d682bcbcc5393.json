@@ -1,0 +1,1 @@
+﻿{"symbol":"B2BX","name":"B2BX Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

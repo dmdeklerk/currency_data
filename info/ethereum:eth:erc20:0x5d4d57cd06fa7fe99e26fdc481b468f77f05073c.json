@@ -1,0 +1,1 @@
+﻿{"symbol":"NTK","name":"Netkoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

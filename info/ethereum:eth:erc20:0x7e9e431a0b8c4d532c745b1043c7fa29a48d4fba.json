@@ -1,0 +1,1 @@
+﻿{"symbol":"EOSDAC","name":"eosDAC","assetType":{"$ref":"eth:erc20"},"assetId":"0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

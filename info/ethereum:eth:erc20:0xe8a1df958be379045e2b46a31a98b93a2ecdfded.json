@@ -1,0 +1,1 @@
+﻿{"symbol":"ESZ","name":"ESZCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0xe8a1df958be379045e2b46a31a98b93a2ecdfded","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

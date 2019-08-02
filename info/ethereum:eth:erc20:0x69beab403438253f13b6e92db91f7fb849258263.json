@@ -1,0 +1,1 @@
+﻿{"symbol":"NTK","name":"NeuroToken","assetType":{"$ref":"eth:erc20"},"assetId":"0x69beab403438253f13b6e92db91f7fb849258263","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

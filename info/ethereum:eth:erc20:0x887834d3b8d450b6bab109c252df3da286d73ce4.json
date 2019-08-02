@@ -1,0 +1,1 @@
+﻿{"symbol":"ATT","name":"Atmatrix Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x887834d3b8d450b6bab109c252df3da286d73ce4","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

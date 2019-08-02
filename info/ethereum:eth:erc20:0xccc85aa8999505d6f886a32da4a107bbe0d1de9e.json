@@ -1,0 +1,1 @@
+﻿{"symbol":"RPE","name":"REPE","assetType":{"$ref":"eth:erc20"},"assetId":"0xccc85aa8999505d6f886a32da4a107bbe0d1de9e","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"DOW","name":"DOWCOIN","assetType":{"$ref":"eth:erc20"},"assetId":"0x76974c7b79dc8a6a109fd71fd7ceb9e40eff5382","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

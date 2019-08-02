@@ -1,0 +1,1 @@
+﻿{"symbol":"OWN","name":"OWNDATA Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x170b275ced089fffaebfe927f445a350ed9160dc","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

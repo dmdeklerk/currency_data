@@ -1,0 +1,1 @@
+﻿{"symbol":"UCASH","name":"UNIVERSAL CASH","assetType":{"$ref":"eth:erc20"},"assetId":"0x92e52a1a235d9a103d970901066ce910aacefd37","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

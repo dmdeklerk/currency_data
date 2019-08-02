@@ -1,0 +1,1 @@
+﻿{"symbol":"DTRC","name":"Datarius Credit","assetType":{"$ref":"eth:erc20"},"assetId":"0xc20464e0c373486d2b3335576e83a218b1618a5e","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

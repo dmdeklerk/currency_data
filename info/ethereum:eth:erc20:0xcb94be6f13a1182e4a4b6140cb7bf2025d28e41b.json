@@ -1,0 +1,1 @@
+﻿{"symbol":"TRST","name":"WeTrust","assetType":{"$ref":"eth:erc20"},"assetId":"0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b","blockchain":{"$ref":"ethereum"},"decimals":6,"icon":"*"}

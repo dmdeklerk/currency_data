@@ -1,0 +1,1 @@
+﻿{"symbol":"ABT","name":"ArcBlock Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xb98d4c97425d9908e66e53a6fdf673acca0be986","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

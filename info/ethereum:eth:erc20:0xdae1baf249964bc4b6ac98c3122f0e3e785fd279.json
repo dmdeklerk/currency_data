@@ -1,0 +1,1 @@
+﻿{"symbol":"TKA","name":"Tokia Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xdae1baf249964bc4b6ac98c3122f0e3e785fd279","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

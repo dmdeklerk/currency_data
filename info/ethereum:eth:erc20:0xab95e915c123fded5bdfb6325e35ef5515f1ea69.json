@@ -1,0 +1,1 @@
+﻿{"symbol":"XNN","name":"Xenon Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xab95e915c123fded5bdfb6325e35ef5515f1ea69","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

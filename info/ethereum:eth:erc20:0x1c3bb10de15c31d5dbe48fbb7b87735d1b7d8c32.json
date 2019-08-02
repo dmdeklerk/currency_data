@@ -1,0 +1,1 @@
+﻿{"symbol":"BLO","name":"BLONDCOIN","assetType":{"$ref":"eth:erc20"},"assetId":"0x1c3bb10de15c31d5dbe48fbb7b87735d1b7d8c32","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

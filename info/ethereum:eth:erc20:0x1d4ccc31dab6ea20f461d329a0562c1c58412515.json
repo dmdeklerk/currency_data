@@ -1,0 +1,1 @@
+﻿{"symbol":"TALAO","name":"Talao","assetType":{"$ref":"eth:erc20"},"assetId":"0x1d4ccc31dab6ea20f461d329a0562c1c58412515","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

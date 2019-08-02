@@ -1,0 +1,1 @@
+﻿{"symbol":"eBCH","name":"eBitcoinCash Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xafc39788c51f0c1ff7b55317f3e70299e521fff6","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

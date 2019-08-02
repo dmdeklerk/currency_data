@@ -1,0 +1,1 @@
+﻿{"symbol":"EZT","name":"EZToken","assetType":{"$ref":"eth:erc20"},"assetId":"0x5e6016ae7d7c49d347dcf834860b9f3ee282812b","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

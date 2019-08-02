@@ -1,0 +1,1 @@
+﻿{"symbol":"RMESH","name":"RightMesh Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x8d5682941ce456900b12d47ac06a88b47c764ce1","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"ZERA","name":"ZERACOIN","assetType":{"$ref":"eth:erc20"},"assetId":"0x8188e51bc678f0070531f0e782718df0027452de","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

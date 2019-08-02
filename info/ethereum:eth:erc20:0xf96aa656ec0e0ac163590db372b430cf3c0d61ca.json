@@ -1,0 +1,1 @@
+﻿{"symbol":"TGT","name":"Twogap Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xf96aa656ec0e0ac163590db372b430cf3c0d61ca","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

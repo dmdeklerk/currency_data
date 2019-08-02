@@ -1,0 +1,1 @@
+﻿{"symbol":"BTE","name":"BitSerial Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x73dd069c299a5d691e9836243bcaec9c8c1d8734","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

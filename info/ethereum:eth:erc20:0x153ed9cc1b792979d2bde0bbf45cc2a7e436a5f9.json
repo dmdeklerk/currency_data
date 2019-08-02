@@ -1,0 +1,1 @@
+﻿{"symbol":"XOV","name":"XOVBank","assetType":{"$ref":"eth:erc20"},"assetId":"0x153ed9cc1b792979d2bde0bbf45cc2a7e436a5f9","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

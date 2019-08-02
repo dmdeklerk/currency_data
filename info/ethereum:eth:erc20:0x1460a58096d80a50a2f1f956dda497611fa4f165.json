@@ -1,0 +1,1 @@
+﻿{"symbol":"CHX","name":"Chainium","assetType":{"$ref":"eth:erc20"},"assetId":"0x1460a58096d80a50a2f1f956dda497611fa4f165","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

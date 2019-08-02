@@ -1,0 +1,1 @@
+﻿{"symbol":"YOYOW","name":"YOYOW Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xcbeaec699431857fdb4d37addbbdc20e132d4903","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

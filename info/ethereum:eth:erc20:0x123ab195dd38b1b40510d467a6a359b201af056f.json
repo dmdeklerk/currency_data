@@ -1,0 +1,1 @@
+﻿{"symbol":"LGO (old)","name":"LGO Exchange","assetType":{"$ref":"eth:erc20"},"assetId":"0x123ab195dd38b1b40510d467a6a359b201af056f","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

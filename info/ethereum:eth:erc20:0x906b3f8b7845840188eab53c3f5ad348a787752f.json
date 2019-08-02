@@ -1,0 +1,1 @@
+﻿{"symbol":"DOR","name":"DoradoToken","assetType":{"$ref":"eth:erc20"},"assetId":"0x906b3f8b7845840188eab53c3f5ad348a787752f","blockchain":{"$ref":"ethereum"},"decimals":15,"icon":"*"}

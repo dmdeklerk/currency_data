@@ -1,0 +1,1 @@
+﻿{"symbol":"ETHPAY","name":"EthPay Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xe52e75e8a97546f40991b489e92c68ebb386dc97","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

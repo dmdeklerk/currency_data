@@ -1,0 +1,1 @@
+﻿{"symbol":"ZMAN","name":"ZMAN Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0xe25faab5821ce70ba4179a70c1d481ba45b9d0c9","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

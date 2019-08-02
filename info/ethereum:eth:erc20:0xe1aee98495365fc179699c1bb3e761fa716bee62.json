@@ -1,0 +1,1 @@
+﻿{"symbol":"BZNT","name":"BezantToken","assetType":{"$ref":"eth:erc20"},"assetId":"0xe1aee98495365fc179699c1bb3e761fa716bee62","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

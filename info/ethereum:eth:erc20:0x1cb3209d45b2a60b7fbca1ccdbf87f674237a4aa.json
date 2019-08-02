@@ -1,0 +1,1 @@
+﻿{"symbol":"THR","name":"ThoreCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x1cb3209d45b2a60b7fbca1ccdbf87f674237a4aa","blockchain":{"$ref":"ethereum"},"decimals":4,"icon":"*"}

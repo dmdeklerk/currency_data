@@ -1,0 +1,1 @@
+﻿{"symbol":"CMBT","name":"CMBToken","assetType":{"$ref":"eth:erc20"},"assetId":"0x3edd235c3e840c1f29286b2e39370a255c7b6fdb","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

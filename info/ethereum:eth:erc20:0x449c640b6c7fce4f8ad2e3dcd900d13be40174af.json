@@ -1,0 +1,1 @@
+﻿{"symbol":"IGI","name":"IGICOIN","assetType":{"$ref":"eth:erc20"},"assetId":"0x449c640b6c7fce4f8ad2e3dcd900d13be40174af","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

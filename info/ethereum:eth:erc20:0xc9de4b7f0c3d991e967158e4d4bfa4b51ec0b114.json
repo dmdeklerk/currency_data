@@ -1,0 +1,1 @@
+﻿{"symbol":"ROK","name":"Rocketchain","assetType":{"$ref":"eth:erc20"},"assetId":"0xc9de4b7f0c3d991e967158e4d4bfa4b51ec0b114","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

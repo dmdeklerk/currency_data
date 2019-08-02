@@ -1,0 +1,1 @@
+﻿{"symbol":"(PARKGENE) (GENE)","name":"GENE TOKEN","assetType":{"$ref":"eth:erc20"},"assetId":"0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

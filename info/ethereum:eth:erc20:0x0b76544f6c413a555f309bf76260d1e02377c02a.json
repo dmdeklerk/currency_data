@@ -1,0 +1,1 @@
+﻿{"symbol":"INT","name":"Internet Node Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x0b76544f6c413a555f309bf76260d1e02377c02a","blockchain":{"$ref":"ethereum"},"decimals":6,"icon":"*"}

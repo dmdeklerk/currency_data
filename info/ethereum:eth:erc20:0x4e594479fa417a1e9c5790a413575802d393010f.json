@@ -1,0 +1,1 @@
+﻿{"symbol":"FER","name":"Ferret Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0x4e594479fa417a1e9c5790a413575802d393010f","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

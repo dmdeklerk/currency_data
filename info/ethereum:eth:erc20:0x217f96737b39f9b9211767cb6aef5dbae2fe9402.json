@@ -1,0 +1,1 @@
+﻿{"symbol":"WAY","name":"Bazaar Gift Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x217f96737b39f9b9211767cb6aef5dbae2fe9402","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

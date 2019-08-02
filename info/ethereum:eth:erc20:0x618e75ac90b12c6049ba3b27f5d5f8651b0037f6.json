@@ -1,0 +1,1 @@
+﻿{"symbol":"QASH","name":"QASH Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6","blockchain":{"$ref":"ethereum"},"decimals":6,"icon":"*"}

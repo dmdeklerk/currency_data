@@ -1,0 +1,1 @@
+﻿{"symbol":"CBC","name":"CashBetCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x26db5439f651caf491a87d48799da81f191bdb6b","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

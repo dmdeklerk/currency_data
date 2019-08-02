@@ -1,0 +1,1 @@
+﻿{"symbol":"FRX","name":"Forex Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0x36a73557f5bde5195ec39eca82d28b8a36d21141","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

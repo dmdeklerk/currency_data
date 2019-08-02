@@ -1,0 +1,1 @@
+﻿{"symbol":"CPT","name":"Cryptaur","assetType":{"$ref":"eth:erc20"},"assetId":"0x88d50b466be55222019d71f9e8fae17f5f45fca1","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

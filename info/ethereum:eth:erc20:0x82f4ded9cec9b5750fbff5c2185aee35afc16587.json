@@ -1,0 +1,1 @@
+﻿{"symbol":"DREAM","name":"DREAM Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x82f4ded9cec9b5750fbff5c2185aee35afc16587","blockchain":{"$ref":"ethereum"},"decimals":6,"icon":"*"}

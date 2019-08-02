@@ -1,0 +1,1 @@
+﻿{"symbol":"VIDT","name":"V-ID Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x445f51299ef3307dbd75036dd896565f5b4bf7a5","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

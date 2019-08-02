@@ -1,0 +1,1 @@
+﻿{"symbol":"KNDC","name":"KanadeCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x8e5610ab5e39d26828167640ea29823fe1dd5843","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

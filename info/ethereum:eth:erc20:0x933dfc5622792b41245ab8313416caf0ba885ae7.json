@@ -1,0 +1,1 @@
+﻿{"symbol":"COBR","name":"CoinBroker","assetType":{"$ref":"eth:erc20"},"assetId":"0x933dfc5622792b41245ab8313416caf0ba885ae7","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

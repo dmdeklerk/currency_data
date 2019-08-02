@@ -1,0 +1,1 @@
+﻿{"symbol":"BBI","name":"Beluga Banking Infrastructure Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x37d40510a2f5bc98aa7a0f7bf4b3453bcfb90ac1","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"XLX","name":"XLXPay","assetType":{"$ref":"eth:erc20"},"assetId":"0x1d086b868d78040635cb8600ba733f12db48cb42","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

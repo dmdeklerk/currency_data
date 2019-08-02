@@ -1,0 +1,1 @@
+﻿{"symbol":"OCC","name":"Original Crypto Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0x0235fe624e044a05eed7a43e16e3083bc8a4287a","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

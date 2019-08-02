@@ -1,0 +1,1 @@
+﻿{"symbol":"GIRL","name":"Girl Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0x9aa7d119bdf77f65a7284581a211d8c44ffb04b4","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

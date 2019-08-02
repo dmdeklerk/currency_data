@@ -1,0 +1,1 @@
+﻿{"symbol":"HDG","name":"Hedge Crypto","assetType":{"$ref":"eth:erc20"},"assetId":"0xffe8196bc259e8dedc544d935786aa4709ec3e64","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

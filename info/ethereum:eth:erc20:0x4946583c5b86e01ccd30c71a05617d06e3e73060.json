@@ -1,0 +1,1 @@
+﻿{"symbol":"PTON","name":"PTON Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x4946583c5b86e01ccd30c71a05617d06e3e73060","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

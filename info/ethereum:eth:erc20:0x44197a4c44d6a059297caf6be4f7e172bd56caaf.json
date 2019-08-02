@@ -1,0 +1,1 @@
+﻿{"symbol":"ELTCOIN","name":"ELTCOIN","assetType":{"$ref":"eth:erc20"},"assetId":"0x44197a4c44d6a059297caf6be4f7e172bd56caaf","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

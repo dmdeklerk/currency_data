@@ -1,0 +1,1 @@
+﻿{"symbol":"DGTX","name":"DigitexFutures","assetType":{"$ref":"eth:erc20"},"assetId":"0x1c83501478f1320977047008496dacbd60bb15ef","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"GEM","name":"Gems","assetType":{"$ref":"eth:erc20"},"assetId":"0xc7bba5b765581efb2cdd2679db5bea9ee79b201f","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"UBEX","name":"UBEX Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

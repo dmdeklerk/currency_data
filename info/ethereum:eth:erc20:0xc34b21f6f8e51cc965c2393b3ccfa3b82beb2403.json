@@ -1,0 +1,1 @@
+﻿{"symbol":"IoT","name":"IoTコイン","assetType":{"$ref":"eth:erc20"},"assetId":"0xc34b21f6f8e51cc965c2393b3ccfa3b82beb2403","blockchain":{"$ref":"ethereum"},"decimals":6,"icon":"*"}

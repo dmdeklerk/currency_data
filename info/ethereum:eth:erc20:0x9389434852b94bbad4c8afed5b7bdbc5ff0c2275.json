@@ -1,0 +1,1 @@
+﻿{"symbol":"TTC","name":"TTC Protocol","assetType":{"$ref":"eth:erc20"},"assetId":"0x9389434852b94bbad4c8afed5b7bdbc5ff0c2275","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

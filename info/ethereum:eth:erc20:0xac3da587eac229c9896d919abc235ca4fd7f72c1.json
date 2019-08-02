@@ -1,0 +1,1 @@
+﻿{"symbol":"TGT","name":"Target Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0xac3da587eac229c9896d919abc235ca4fd7f72c1","blockchain":{"$ref":"ethereum"},"decimals":1,"icon":"*"}

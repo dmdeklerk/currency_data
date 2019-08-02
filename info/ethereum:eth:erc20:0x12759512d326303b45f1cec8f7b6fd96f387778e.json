@@ -1,0 +1,1 @@
+﻿{"symbol":"TRAK","name":"TrakInvest Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x12759512d326303b45f1cec8f7b6fd96f387778e","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

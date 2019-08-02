@@ -1,0 +1,1 @@
+﻿{"symbol":"QBIT","name":"Qubitica","assetType":{"$ref":"eth:erc20"},"assetId":"0x1602af2c782cc03f9241992e243290fccf73bb13","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"TKR","name":"TKR Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xb45a50545beeab73f38f31e5973768c421805e5e","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

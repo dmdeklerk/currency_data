@@ -1,0 +1,1 @@
+﻿{"symbol":"XCLR","name":"ClearCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x1e26b3d07e57f453cae30f7ddd2f945f5bf3ef33","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

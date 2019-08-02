@@ -1,0 +1,1 @@
+﻿{"symbol":"WMK","name":"WemarkToken","assetType":{"$ref":"eth:erc20"},"assetId":"0xbfbe5332f172d77811bc6c272844f3e54a7b23bb","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

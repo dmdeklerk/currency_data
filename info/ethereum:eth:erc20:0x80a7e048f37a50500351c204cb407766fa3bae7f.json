@@ -1,0 +1,1 @@
+﻿{"symbol":"CRPT","name":"CrypteriumToken","assetType":{"$ref":"eth:erc20"},"assetId":"0x80a7e048f37a50500351c204cb407766fa3bae7f","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

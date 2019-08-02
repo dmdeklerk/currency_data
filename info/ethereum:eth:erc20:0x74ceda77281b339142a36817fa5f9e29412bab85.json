@@ -1,0 +1,1 @@
+﻿{"symbol":"ERO","name":"EROSCOIN","assetType":{"$ref":"eth:erc20"},"assetId":"0x74ceda77281b339142a36817fa5f9e29412bab85","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

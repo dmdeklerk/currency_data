@@ -1,0 +1,1 @@
+﻿{"symbol":"RIPT","name":"RiptideCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0xdd007278b667f6bef52fd0a4c23604aa1f96039a","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

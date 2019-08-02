@@ -1,0 +1,1 @@
+﻿{"symbol":"SGR","name":"Sugar Exchange","assetType":{"$ref":"eth:erc20"},"assetId":"0xcb5a05bef3257613e984c17dbcf039952b6d883f","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"CHP","name":"Poker Chips","assetType":{"$ref":"eth:erc20"},"assetId":"0xf3db7560e820834658b590c96234c333cd3d5e5e","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

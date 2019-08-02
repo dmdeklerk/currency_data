@@ -1,0 +1,1 @@
+﻿{"symbol":"BHR","name":"BETHER","assetType":{"$ref":"eth:erc20"},"assetId":"0xfe5d908c9ad85f651185daa6a4770726e2b27d09","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

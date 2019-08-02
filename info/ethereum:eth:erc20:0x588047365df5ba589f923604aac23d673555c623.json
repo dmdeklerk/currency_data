@@ -1,0 +1,1 @@
+﻿{"symbol":"NAVI","name":"NaviToken","assetType":{"$ref":"eth:erc20"},"assetId":"0x588047365df5ba589f923604aac23d673555c623","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"YEE","name":"YEE Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x922105fad8153f516bcfb829f56dc097a0e1d705","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

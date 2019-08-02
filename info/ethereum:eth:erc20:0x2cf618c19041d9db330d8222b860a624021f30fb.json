@@ -1,0 +1,1 @@
+﻿{"symbol":"CRBT","name":"CRUISEBIT","assetType":{"$ref":"eth:erc20"},"assetId":"0x2cf618c19041d9db330d8222b860a624021f30fb","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

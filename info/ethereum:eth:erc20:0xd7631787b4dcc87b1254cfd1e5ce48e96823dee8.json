@@ -1,0 +1,1 @@
+﻿{"symbol":"SCL","name":"SocialCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

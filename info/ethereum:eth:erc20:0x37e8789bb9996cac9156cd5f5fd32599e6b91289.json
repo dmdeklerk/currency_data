@@ -1,0 +1,1 @@
+﻿{"symbol":"AID","name":"AidCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x37e8789bb9996cac9156cd5f5fd32599e6b91289","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

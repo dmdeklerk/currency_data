@@ -1,0 +1,1 @@
+﻿{"symbol":"SPX","name":"Sp8de Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x05aaaa829afa407d83315cded1d45eb16025910c","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

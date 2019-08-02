@@ -1,0 +1,1 @@
+﻿{"symbol":"DAXT","name":"Digital Asset Exchange Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x61725f3db4004afe014745b21dab1e1677cc328b","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

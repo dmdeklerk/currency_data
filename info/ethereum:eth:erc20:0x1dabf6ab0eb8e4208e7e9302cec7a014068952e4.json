@@ -1,0 +1,1 @@
+﻿{"symbol":"CURA","name":"Curate","assetType":{"$ref":"eth:erc20"},"assetId":"0x1dabf6ab0eb8e4208e7e9302cec7a014068952e4","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

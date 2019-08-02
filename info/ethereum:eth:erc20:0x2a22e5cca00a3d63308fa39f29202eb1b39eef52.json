@@ -1,0 +1,1 @@
+﻿{"symbol":"EDU","name":"EDU Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x2a22e5cca00a3d63308fa39f29202eb1b39eef52","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

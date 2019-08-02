@@ -1,0 +1,1 @@
+﻿{"symbol":"SONIQ","name":"Soniq Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x1c62aca2b7605db3606eacda7bc67a1857ddb8ff","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

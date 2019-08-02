@@ -1,0 +1,1 @@
+﻿{"symbol":"WRC","name":"Worldcore","assetType":{"$ref":"eth:erc20"},"assetId":"0x72adadb447784dd7ab1f472467750fc485e4cb2d","blockchain":{"$ref":"ethereum"},"decimals":6,"icon":"*"}

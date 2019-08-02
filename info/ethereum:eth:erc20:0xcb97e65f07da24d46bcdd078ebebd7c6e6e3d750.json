@@ -1,0 +1,1 @@
+﻿{"symbol":"BTM","name":"Bytom","assetType":{"$ref":"eth:erc20"},"assetId":"0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

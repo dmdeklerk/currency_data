@@ -1,0 +1,1 @@
+﻿{"symbol":"UKG","name":"UnikoinGold","assetType":{"$ref":"eth:erc20"},"assetId":"0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

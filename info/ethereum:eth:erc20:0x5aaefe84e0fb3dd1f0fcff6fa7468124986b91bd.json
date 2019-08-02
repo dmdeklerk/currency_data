@@ -1,0 +1,1 @@
+﻿{"symbol":"EVED","name":"Evedo Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

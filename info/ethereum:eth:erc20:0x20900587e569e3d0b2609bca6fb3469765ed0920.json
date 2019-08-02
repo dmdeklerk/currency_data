@@ -1,0 +1,1 @@
+﻿{"symbol":"BTP","name":"Bitpoint","assetType":{"$ref":"eth:erc20"},"assetId":"0x20900587e569e3d0b2609bca6fb3469765ed0920","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

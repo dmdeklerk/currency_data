@@ -1,0 +1,1 @@
+﻿{"symbol":"CFC","name":"CryptFillCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x5dff89a2caa4d76bc286f74d67bd718eb834da61","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

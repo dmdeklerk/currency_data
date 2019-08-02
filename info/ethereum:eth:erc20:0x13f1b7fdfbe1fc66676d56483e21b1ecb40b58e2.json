@@ -1,0 +1,1 @@
+﻿{"symbol":"ACC","name":"Accelerator Network","assetType":{"$ref":"eth:erc20"},"assetId":"0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

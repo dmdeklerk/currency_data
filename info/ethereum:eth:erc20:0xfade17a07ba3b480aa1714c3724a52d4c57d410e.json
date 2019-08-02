@@ -1,0 +1,1 @@
+﻿{"symbol":"VGN","name":"Vegan Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xfade17a07ba3b480aa1714c3724a52d4c57d410e","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

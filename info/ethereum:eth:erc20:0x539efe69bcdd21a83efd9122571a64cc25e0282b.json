@@ -1,0 +1,1 @@
+﻿{"symbol":"BLUE","name":"Blue Protocol","assetType":{"$ref":"eth:erc20"},"assetId":"0x539efe69bcdd21a83efd9122571a64cc25e0282b","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

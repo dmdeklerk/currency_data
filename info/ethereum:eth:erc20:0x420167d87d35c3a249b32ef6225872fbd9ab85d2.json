@@ -1,0 +1,1 @@
+﻿{"symbol":"MESG","name":"MESG Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x420167d87d35c3a249b32ef6225872fbd9ab85d2","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

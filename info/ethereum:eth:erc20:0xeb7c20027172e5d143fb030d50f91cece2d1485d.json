@@ -1,0 +1,1 @@
+﻿{"symbol":"eBTC","name":"eBitcoin","assetType":{"$ref":"eth:erc20"},"assetId":"0xeb7c20027172e5d143fb030d50f91cece2d1485d","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

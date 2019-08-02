@@ -1,0 +1,1 @@
+﻿{"symbol":"PESO","name":"PESOTOKEN","assetType":{"$ref":"eth:erc20"},"assetId":"0x30fef258d2728f9d1edf038059c725faf785697e","blockchain":{"$ref":"ethereum"},"decimals":2,"icon":"*"}

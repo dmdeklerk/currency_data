@@ -1,0 +1,1 @@
+﻿{"symbol":"XPAY","name":"Xpayment","assetType":{"$ref":"eth:erc20"},"assetId":"0xbc7ed0c8cf986ae62337fc8df3b02c6ec87310ed","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

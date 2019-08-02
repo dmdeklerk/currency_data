@@ -1,0 +1,1 @@
+﻿{"symbol":"PATR","name":"PatriotToken","assetType":{"$ref":"eth:erc20"},"assetId":"0x9fba684d77d2d6a1408c24b60a1f5534e71f5b75","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

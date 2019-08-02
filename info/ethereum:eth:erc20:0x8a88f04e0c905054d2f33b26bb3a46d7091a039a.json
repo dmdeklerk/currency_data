@@ -1,0 +1,1 @@
+﻿{"symbol":"IG","name":"IG Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x8a88f04e0c905054d2f33b26bb3a46d7091a039a","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

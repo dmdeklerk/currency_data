@@ -1,0 +1,1 @@
+﻿{"symbol":"SGP","name":"SGPay","assetType":{"$ref":"eth:erc20"},"assetId":"0x33c623a2baafeb8d15dfaf3ce44095efec83d72c","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

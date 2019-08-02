@@ -1,0 +1,1 @@
+﻿{"symbol":"RFX","name":"ROTH","assetType":{"$ref":"eth:erc20"},"assetId":"0xf4c571fb6dd704e58561cdd275fa4b80cfe82f76","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

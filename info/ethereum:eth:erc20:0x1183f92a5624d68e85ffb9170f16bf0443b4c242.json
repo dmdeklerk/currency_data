@@ -1,0 +1,1 @@
+﻿{"symbol":"QVT","name":"Qvolta Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x1183f92a5624d68e85ffb9170f16bf0443b4c242","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

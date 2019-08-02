@@ -1,0 +1,1 @@
+﻿{"symbol":"RYLT","name":"RoyaltyCOIN","assetType":{"$ref":"eth:erc20"},"assetId":"0xd30a2e9347ad48ea208ee563a9cdfd80e962a727","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

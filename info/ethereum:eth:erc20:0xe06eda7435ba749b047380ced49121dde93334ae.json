@@ -1,0 +1,1 @@
+﻿{"symbol":"SET","name":"Save Environment Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xe06eda7435ba749b047380ced49121dde93334ae","blockchain":{"$ref":"ethereum"},"decimals":0,"icon":"*"}

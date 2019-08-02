@@ -1,0 +1,1 @@
+﻿{"symbol":"BTCONE","name":"BitCoin ONE","assetType":{"$ref":"eth:erc20"},"assetId":"0x87f5e8c3425218837f3cb67db941af0c01323e56","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

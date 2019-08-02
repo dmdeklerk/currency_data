@@ -1,0 +1,1 @@
+﻿{"symbol":"ETG","name":"Ethereum Gold","assetType":{"$ref":"eth:erc20"},"assetId":"0x28c8d01ff633ea9cd8fc6a451d7457889e698de6","blockchain":{"$ref":"ethereum"},"decimals":0,"icon":"*"}

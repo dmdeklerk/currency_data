@@ -1,0 +1,1 @@
+﻿{"symbol":"TIO","name":"Trade Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x80bc5512561c7f85a3a9508c7df7901b370fa1df","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

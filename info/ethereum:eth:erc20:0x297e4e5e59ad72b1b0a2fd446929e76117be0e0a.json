@@ -1,0 +1,1 @@
+﻿{"symbol":"VALOR","name":"ValorToken","assetType":{"$ref":"eth:erc20"},"assetId":"0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

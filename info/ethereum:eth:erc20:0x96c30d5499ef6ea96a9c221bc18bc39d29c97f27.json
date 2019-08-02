@@ -1,0 +1,1 @@
+﻿{"symbol":"Thar","name":"Thar token","assetType":{"$ref":"eth:erc20"},"assetId":"0x96c30d5499ef6ea96a9c221bc18bc39d29c97f27","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"Seele","name":"SeeleToken","assetType":{"$ref":"eth:erc20"},"assetId":"0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

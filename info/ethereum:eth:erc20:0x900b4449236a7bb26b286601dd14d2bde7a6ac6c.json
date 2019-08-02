@@ -1,0 +1,1 @@
+﻿{"symbol":"EARTH","name":"EARTH Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x900b4449236a7bb26b286601dd14d2bde7a6ac6c","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

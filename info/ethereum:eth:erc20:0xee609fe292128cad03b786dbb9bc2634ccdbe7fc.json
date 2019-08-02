@@ -1,0 +1,1 @@
+﻿{"symbol":"POS","name":"PoSToken","assetType":{"$ref":"eth:erc20"},"assetId":"0xee609fe292128cad03b786dbb9bc2634ccdbe7fc","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

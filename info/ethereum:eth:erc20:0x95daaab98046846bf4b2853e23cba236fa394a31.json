@@ -1,0 +1,1 @@
+﻿{"symbol":"EMONT","name":"Etheremon Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x95daaab98046846bf4b2853e23cba236fa394a31","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

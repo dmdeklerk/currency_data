@@ -1,0 +1,1 @@
+﻿{"symbol":"REM","name":"Remme","assetType":{"$ref":"eth:erc20"},"assetId":"0x83984d6142934bb535793a82adb0a46ef0f66b6d","blockchain":{"$ref":"ethereum"},"decimals":4,"icon":"*"}

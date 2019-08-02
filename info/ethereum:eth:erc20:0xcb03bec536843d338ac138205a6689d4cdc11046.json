@@ -1,0 +1,1 @@
+﻿{"symbol":"ABPT","name":"ABPT Crypto","assetType":{"$ref":"eth:erc20"},"assetId":"0xcb03bec536843d338ac138205a6689d4cdc11046","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

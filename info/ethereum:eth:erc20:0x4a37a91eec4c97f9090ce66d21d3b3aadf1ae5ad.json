@@ -1,0 +1,1 @@
+﻿{"symbol":"LCT","name":"LiquorChain Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x4a37a91eec4c97f9090ce66d21d3b3aadf1ae5ad","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

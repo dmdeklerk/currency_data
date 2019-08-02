@@ -1,0 +1,1 @@
+﻿{"symbol":"MEDX","name":"MEDX Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xfd1e80508f243e64ce234ea88a5fd2827c71d4b7","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

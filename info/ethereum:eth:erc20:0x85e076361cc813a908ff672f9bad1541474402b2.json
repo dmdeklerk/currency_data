@@ -1,0 +1,1 @@
+﻿{"symbol":"TEL","name":"Telcoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x85e076361cc813a908ff672f9bad1541474402b2","blockchain":{"$ref":"ethereum"},"decimals":2,"icon":"*"}

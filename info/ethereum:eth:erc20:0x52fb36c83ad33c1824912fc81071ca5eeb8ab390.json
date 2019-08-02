@@ -1,0 +1,1 @@
+﻿{"symbol":"FID","name":"Fidelium Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x52fb36c83ad33c1824912fc81071ca5eeb8ab390","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

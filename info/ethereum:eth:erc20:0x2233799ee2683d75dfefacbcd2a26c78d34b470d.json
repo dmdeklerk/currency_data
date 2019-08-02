@@ -1,0 +1,1 @@
+﻿{"symbol":"NTWK","name":"Network","assetType":{"$ref":"eth:erc20"},"assetId":"0x2233799ee2683d75dfefacbcd2a26c78d34b470d","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

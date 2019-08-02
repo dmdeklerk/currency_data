@@ -1,0 +1,1 @@
+﻿{"symbol":"BHPC","name":"BHPCash","assetType":{"$ref":"eth:erc20"},"assetId":"0xee74110fb5a1007b06282e0de5d73a61bf41d9cd","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

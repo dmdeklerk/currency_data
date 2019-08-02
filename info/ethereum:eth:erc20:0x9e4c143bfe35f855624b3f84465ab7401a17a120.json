@@ -1,0 +1,1 @@
+﻿{"symbol":"EXC","name":"EXCOIN CASH ","assetType":{"$ref":"eth:erc20"},"assetId":"0x9e4c143bfe35f855624b3f84465ab7401a17a120","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

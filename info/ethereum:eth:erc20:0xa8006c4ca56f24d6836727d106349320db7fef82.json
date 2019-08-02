@@ -1,0 +1,1 @@
+﻿{"symbol":"INXT","name":"Internxt","assetType":{"$ref":"eth:erc20"},"assetId":"0xa8006c4ca56f24d6836727d106349320db7fef82","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

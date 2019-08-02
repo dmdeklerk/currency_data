@@ -1,0 +1,1 @@
+﻿{"symbol":"CLP","name":"CryptoLending","assetType":{"$ref":"eth:erc20"},"assetId":"0x7fce2856899a6806eeef70807985fc7554c66340","blockchain":{"$ref":"ethereum"},"decimals":9,"icon":"*"}

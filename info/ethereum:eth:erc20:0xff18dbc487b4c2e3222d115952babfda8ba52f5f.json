@@ -1,0 +1,1 @@
+﻿{"symbol":"LIFE","name":"LIFE Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xff18dbc487b4c2e3222d115952babfda8ba52f5f","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

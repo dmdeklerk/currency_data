@@ -1,0 +1,1 @@
+﻿{"symbol":"FND","name":"FundRequest","assetType":{"$ref":"eth:erc20"},"assetId":"0x4df47b4969b2911c966506e3592c41389493953b","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

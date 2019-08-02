@@ -1,0 +1,1 @@
+﻿{"symbol":"STAC","name":"Starter Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0x9a005c9a89bd72a4bd27721e7a09a3c11d2b03c4","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

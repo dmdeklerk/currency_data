@@ -1,0 +1,1 @@
+﻿{"symbol":"CBM","name":"CryptoBonusMiles","assetType":{"$ref":"eth:erc20"},"assetId":"0x95efd1fe6099f65a7ed524def487483221094947","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

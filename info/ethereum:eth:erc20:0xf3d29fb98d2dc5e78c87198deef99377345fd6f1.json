@@ -1,0 +1,1 @@
+﻿{"symbol":"BITPARK","name":"BITPARK Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xf3d29fb98d2dc5e78c87198deef99377345fd6f1","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

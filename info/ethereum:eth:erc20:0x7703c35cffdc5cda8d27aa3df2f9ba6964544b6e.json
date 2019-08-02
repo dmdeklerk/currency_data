@@ -1,0 +1,1 @@
+﻿{"symbol":"PYLNT","name":"Pylon Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

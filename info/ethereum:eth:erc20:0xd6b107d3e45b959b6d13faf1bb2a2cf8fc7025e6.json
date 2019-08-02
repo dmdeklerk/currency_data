@@ -1,0 +1,1 @@
+﻿{"symbol":"BTNG","name":"Bitnex Global","assetType":{"$ref":"eth:erc20"},"assetId":"0xd6b107d3e45b959b6d13faf1bb2a2cf8fc7025e6","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

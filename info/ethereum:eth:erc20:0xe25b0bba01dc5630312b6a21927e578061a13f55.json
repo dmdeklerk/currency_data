@@ -1,0 +1,1 @@
+﻿{"symbol":"SHIP","name":"ShipChain","assetType":{"$ref":"eth:erc20"},"assetId":"0xe25b0bba01dc5630312b6a21927e578061a13f55","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

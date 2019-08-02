@@ -1,0 +1,1 @@
+﻿{"symbol":"BTH","name":"Bytether","assetType":{"$ref":"eth:erc20"},"assetId":"0xfad572db566e5234ac9fc3d570c4edc0050eaa92","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

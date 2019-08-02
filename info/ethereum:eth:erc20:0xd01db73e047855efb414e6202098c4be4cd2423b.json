@@ -1,0 +1,1 @@
+﻿{"symbol":"UQC","name":"Uquid Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0xd01db73e047855efb414e6202098c4be4cd2423b","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"LEV","name":"Leverj","assetType":{"$ref":"eth:erc20"},"assetId":"0x0f4ca92660efad97a9a70cb0fe969c755439772c","blockchain":{"$ref":"ethereum"},"decimals":9,"icon":"*"}

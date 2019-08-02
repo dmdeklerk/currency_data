@@ -1,0 +1,1 @@
+﻿{"symbol":"RPL","name":"Rocket Pool","assetType":{"$ref":"eth:erc20"},"assetId":"0xb4efd85c19999d84251304bda99e90b92300bd93","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

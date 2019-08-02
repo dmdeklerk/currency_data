@@ -1,0 +1,1 @@
+﻿{"symbol":"ORX","name":"Orionix","assetType":{"$ref":"eth:erc20"},"assetId":"0x4e84a65b5664d33b67750771f8beaec458bd6729","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"JBD","name":"Jubilee Dollar","assetType":{"$ref":"eth:erc20"},"assetId":"0x9a3619499825fbae63329aa8bcb3f10cd5958e1c","blockchain":{"$ref":"ethereum"},"decimals":10,"icon":"*"}

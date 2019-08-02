@@ -1,0 +1,1 @@
+﻿{"symbol":"PCH","name":"POPCHAIN CASH","assetType":{"$ref":"eth:erc20"},"assetId":"0xe3f4b4a5d91e5cb9435b947f090a319737036312","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

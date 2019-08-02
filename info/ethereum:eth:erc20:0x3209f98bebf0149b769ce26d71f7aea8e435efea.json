@@ -1,0 +1,1 @@
+﻿{"symbol":"TMT","name":"Traxia Membership Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x3209f98bebf0149b769ce26d71f7aea8e435efea","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

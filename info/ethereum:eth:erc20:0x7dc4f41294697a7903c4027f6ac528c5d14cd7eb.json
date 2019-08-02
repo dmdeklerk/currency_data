@@ -1,0 +1,1 @@
+﻿{"symbol":"RMC","name":"RemiCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x7dc4f41294697a7903c4027f6ac528c5d14cd7eb","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

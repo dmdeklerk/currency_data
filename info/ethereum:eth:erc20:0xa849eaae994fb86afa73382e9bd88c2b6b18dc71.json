@@ -1,0 +1,1 @@
+﻿{"symbol":"MVL","name":"Mass Vehicle Ledger Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xa849eaae994fb86afa73382e9bd88c2b6b18dc71","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

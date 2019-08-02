@@ -1,0 +1,1 @@
+﻿{"symbol":"RNTB","name":"RNTB Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x1fe70be734e473e5721ea57c8b5b01e6caa52686","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

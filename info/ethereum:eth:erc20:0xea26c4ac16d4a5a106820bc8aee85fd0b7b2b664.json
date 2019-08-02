@@ -1,0 +1,1 @@
+﻿{"symbol":"QKC","name":"QuarkChain Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

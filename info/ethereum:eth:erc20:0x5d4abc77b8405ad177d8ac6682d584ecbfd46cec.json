@@ -1,0 +1,1 @@
+﻿{"symbol":"PST","name":"Primas Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x5d4abc77b8405ad177d8ac6682d584ecbfd46cec","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

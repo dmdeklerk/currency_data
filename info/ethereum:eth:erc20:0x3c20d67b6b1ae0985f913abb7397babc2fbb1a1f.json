@@ -1,0 +1,1 @@
+﻿{"symbol":"ICD","name":"ICEDIUM","assetType":{"$ref":"eth:erc20"},"assetId":"0x3c20d67b6b1ae0985f913abb7397babc2fbb1a1f","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

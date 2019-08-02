@@ -1,0 +1,1 @@
+﻿{"symbol":"DRP","name":"DCorp","assetType":{"$ref":"eth:erc20"},"assetId":"0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed","blockchain":{"$ref":"ethereum"},"decimals":2,"icon":"*"}

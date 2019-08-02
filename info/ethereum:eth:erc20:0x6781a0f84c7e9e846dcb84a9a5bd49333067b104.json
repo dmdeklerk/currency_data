@@ -1,0 +1,1 @@
+﻿{"symbol":"ZAP","name":"ZAP Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x6781a0f84c7e9e846dcb84a9a5bd49333067b104","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

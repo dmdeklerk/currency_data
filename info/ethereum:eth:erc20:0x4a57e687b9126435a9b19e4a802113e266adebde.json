@@ -1,0 +1,1 @@
+﻿{"symbol":"FXC","name":"Flexacoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x4a57e687b9126435a9b19e4a802113e266adebde","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

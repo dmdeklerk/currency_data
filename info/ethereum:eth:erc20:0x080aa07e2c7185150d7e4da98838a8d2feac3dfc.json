@@ -1,0 +1,1 @@
+﻿{"symbol":"BTT","name":"Bitether","assetType":{"$ref":"eth:erc20"},"assetId":"0x080aa07e2c7185150d7e4da98838a8d2feac3dfc","blockchain":{"$ref":"ethereum"},"decimals":0,"icon":"*"}

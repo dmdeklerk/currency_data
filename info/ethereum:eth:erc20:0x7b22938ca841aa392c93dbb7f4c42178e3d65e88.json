@@ -1,0 +1,1 @@
+﻿{"symbol":"ASTRO","name":"AstroTokens","assetType":{"$ref":"eth:erc20"},"assetId":"0x7b22938ca841aa392c93dbb7f4c42178e3d65e88","blockchain":{"$ref":"ethereum"},"decimals":4,"icon":"*"}

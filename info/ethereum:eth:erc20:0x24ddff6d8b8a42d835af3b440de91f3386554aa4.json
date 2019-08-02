@@ -1,0 +1,1 @@
+﻿{"symbol":"ING","name":"IUNGO","assetType":{"$ref":"eth:erc20"},"assetId":"0x24ddff6d8b8a42d835af3b440de91f3386554aa4","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

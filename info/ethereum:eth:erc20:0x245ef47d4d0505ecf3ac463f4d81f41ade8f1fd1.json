@@ -1,0 +1,1 @@
+﻿{"symbol":"NUG","name":"Nuggets Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

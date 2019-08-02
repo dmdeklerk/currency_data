@@ -1,0 +1,1 @@
+﻿{"symbol":"BBN","name":"Banyan Network","assetType":{"$ref":"eth:erc20"},"assetId":"0x35a69642857083ba2f30bfab735dacc7f0bac969","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

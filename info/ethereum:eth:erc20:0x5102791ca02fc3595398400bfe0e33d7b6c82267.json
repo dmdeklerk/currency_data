@@ -1,0 +1,1 @@
+﻿{"symbol":"LDC","name":"Leadcoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x5102791ca02fc3595398400bfe0e33d7b6c82267","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

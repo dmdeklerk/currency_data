@@ -1,0 +1,1 @@
+﻿{"symbol":"FLX","name":"BitFlux","assetType":{"$ref":"eth:erc20"},"assetId":"0x70b147e01e9285e7ce68b9ba437fe3a9190e756a","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"INV","name":"Invacio Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0xece83617db208ad255ad4f45daf81e25137535bb","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

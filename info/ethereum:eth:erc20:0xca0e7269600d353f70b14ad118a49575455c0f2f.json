@@ -1,0 +1,1 @@
+﻿{"symbol":"AMLT","name":"AMLT Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xca0e7269600d353f70b14ad118a49575455c0f2f","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

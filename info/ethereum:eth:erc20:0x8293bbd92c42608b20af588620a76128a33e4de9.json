@@ -1,0 +1,1 @@
+﻿{"symbol":"CATS","name":"CATCOIN","assetType":{"$ref":"eth:erc20"},"assetId":"0x8293bbd92c42608b20af588620a76128a33e4de9","blockchain":{"$ref":"ethereum"},"decimals":6,"icon":"*"}

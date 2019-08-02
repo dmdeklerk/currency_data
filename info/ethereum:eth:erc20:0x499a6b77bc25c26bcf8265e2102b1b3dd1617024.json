@@ -1,0 +1,1 @@
+﻿{"symbol":"BTR","name":"Bitether","assetType":{"$ref":"eth:erc20"},"assetId":"0x499a6b77bc25c26bcf8265e2102b1b3dd1617024","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

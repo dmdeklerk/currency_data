@@ -1,0 +1,1 @@
+﻿{"symbol":"UTK","name":"UTRUST","assetType":{"$ref":"eth:erc20"},"assetId":"0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

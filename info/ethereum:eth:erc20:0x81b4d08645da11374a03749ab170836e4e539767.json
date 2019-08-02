@@ -1,0 +1,1 @@
+﻿{"symbol":"PMNT","name":"Paymon","assetType":{"$ref":"eth:erc20"},"assetId":"0x81b4d08645da11374a03749ab170836e4e539767","blockchain":{"$ref":"ethereum"},"decimals":9,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"TNT","name":"Tierion Network Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"OCN","name":"OCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x4092678e4e78230f46a1534c0fbc8fa39780892b","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

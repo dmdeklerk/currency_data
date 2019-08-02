@@ -1,0 +1,1 @@
+﻿{"symbol":"TCNX","name":"Tercet Network","assetType":{"$ref":"eth:erc20"},"assetId":"0x28d7f432d24ba6020d1cbd4f28bedc5a82f24320","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

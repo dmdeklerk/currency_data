@@ -1,0 +1,1 @@
+﻿{"symbol":"SHP","name":"Sharpe Platform Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xef2463099360a085f1f10b076ed72ef625497a06","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

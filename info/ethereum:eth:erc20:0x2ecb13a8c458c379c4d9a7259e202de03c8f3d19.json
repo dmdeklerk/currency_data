@@ -1,0 +1,1 @@
+﻿{"symbol":"BC","name":"Block-Chain.com","assetType":{"$ref":"eth:erc20"},"assetId":"0x2ecb13a8c458c379c4d9a7259e202de03c8f3d19","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

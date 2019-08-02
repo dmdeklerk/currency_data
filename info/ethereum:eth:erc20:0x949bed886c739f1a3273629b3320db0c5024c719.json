@@ -1,0 +1,1 @@
+﻿{"symbol":"AMIS","name":"Asset Management Instrument Solution","assetType":{"$ref":"eth:erc20"},"assetId":"0x949bed886c739f1a3273629b3320db0c5024c719","blockchain":{"$ref":"ethereum"},"decimals":9,"icon":"*"}

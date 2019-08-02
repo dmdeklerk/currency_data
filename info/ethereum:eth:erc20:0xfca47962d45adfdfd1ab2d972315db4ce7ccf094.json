@@ -1,0 +1,1 @@
+﻿{"symbol":"IXT","name":"IXT Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xfca47962d45adfdfd1ab2d972315db4ce7ccf094","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

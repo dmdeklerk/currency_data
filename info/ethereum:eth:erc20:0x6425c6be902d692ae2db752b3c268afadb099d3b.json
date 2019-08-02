@@ -1,0 +1,1 @@
+﻿{"symbol":"MWAT","name":"Restart Energy MWAT","assetType":{"$ref":"eth:erc20"},"assetId":"0x6425c6be902d692ae2db752b3c268afadb099d3b","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

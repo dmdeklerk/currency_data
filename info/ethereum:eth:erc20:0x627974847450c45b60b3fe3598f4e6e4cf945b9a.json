@@ -1,0 +1,1 @@
+﻿{"symbol":"TBC","name":"ThunderBoltCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x627974847450c45b60b3fe3598f4e6e4cf945b9a","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

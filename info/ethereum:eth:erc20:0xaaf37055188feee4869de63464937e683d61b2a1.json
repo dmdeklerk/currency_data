@@ -1,0 +1,1 @@
+﻿{"symbol":"UCN","name":"UChain Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xaaf37055188feee4869de63464937e683d61b2a1","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

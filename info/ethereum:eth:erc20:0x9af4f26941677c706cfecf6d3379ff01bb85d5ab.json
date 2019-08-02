@@ -1,0 +1,1 @@
+﻿{"symbol":"DRT","name":"DomRaiderToken","assetType":{"$ref":"eth:erc20"},"assetId":"0x9af4f26941677c706cfecf6d3379ff01bb85d5ab","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

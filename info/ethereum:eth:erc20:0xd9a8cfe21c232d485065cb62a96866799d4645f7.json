@@ -1,0 +1,1 @@
+﻿{"symbol":"FGP","name":"FingerPrint","assetType":{"$ref":"eth:erc20"},"assetId":"0xd9a8cfe21c232d485065cb62a96866799d4645f7","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

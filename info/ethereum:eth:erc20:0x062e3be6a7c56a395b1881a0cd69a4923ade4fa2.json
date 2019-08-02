@@ -1,0 +1,1 @@
+﻿{"symbol":"BAC","name":"Bowl A Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0x062e3be6a7c56a395b1881a0cd69a4923ade4fa2","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

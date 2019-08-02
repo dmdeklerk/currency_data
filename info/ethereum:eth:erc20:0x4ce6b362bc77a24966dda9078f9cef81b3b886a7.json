@@ -1,0 +1,1 @@
+﻿{"symbol":"NPER","name":"NPER Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x4ce6b362bc77a24966dda9078f9cef81b3b886a7","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"OLD_MKR","name":"MakerDAO Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xc66ea802717bfb9833400264dd12c2bceaa34a6d","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

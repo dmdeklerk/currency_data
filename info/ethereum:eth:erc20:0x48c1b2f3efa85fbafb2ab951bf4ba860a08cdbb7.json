@@ -1,0 +1,1 @@
+﻿{"symbol":"HAND","name":"ShowHand","assetType":{"$ref":"eth:erc20"},"assetId":"0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7","blockchain":{"$ref":"ethereum"},"decimals":0,"icon":"*"}

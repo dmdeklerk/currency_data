@@ -1,0 +1,1 @@
+﻿{"symbol":"RTB","name":"AB-CHAIN RTB Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xec491c1088eae992b7a214efb0a266ad0927a72a","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

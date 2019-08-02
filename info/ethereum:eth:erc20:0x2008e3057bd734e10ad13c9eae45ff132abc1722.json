@@ -1,0 +1,1 @@
+﻿{"symbol":"ZCO","name":"Zebi Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0x2008e3057bd734e10ad13c9eae45ff132abc1722","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

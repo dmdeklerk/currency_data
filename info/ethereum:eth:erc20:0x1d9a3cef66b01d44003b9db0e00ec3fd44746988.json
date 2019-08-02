@@ -1,0 +1,1 @@
+﻿{"symbol":"WSS","name":"ETHWSS Coin","assetType":{"$ref":"eth:erc20"},"assetId":"0x1d9a3cef66b01d44003b9db0e00ec3fd44746988","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

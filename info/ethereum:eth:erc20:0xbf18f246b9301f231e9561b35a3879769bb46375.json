@@ -1,0 +1,1 @@
+﻿{"symbol":"CARE","name":"Token CARE","assetType":{"$ref":"eth:erc20"},"assetId":"0xbf18f246b9301f231e9561b35a3879769bb46375","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

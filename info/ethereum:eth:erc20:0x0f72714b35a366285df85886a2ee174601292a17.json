@@ -1,0 +1,1 @@
+﻿{"symbol":"1SG","name":"1SG Stablecoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x0f72714b35a366285df85886a2ee174601292a17","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

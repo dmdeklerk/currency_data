@@ -1,0 +1,1 @@
+﻿{"symbol":"CFTY","name":"Crafty Token","assetType":{"$ref":"eth:erc20"},"assetId":"0x6956983f8b3ce173b4ab84361aa0ad52f38d936f","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

@@ -1,0 +1,1 @@
+﻿{"symbol":"WEB","name":"Webcoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x840fe75abfadc0f2d54037829571b2782e919ce4","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

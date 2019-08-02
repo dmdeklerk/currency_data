@@ -1,0 +1,1 @@
+﻿{"symbol":"DALC","name":"DaleCoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x07d9e49ea402194bf48a8276dafb16e4ed633317","blockchain":{"$ref":"ethereum"},"decimals":8,"icon":"*"}

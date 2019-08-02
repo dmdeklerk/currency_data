@@ -1,0 +1,1 @@
+﻿{"symbol":"COB","name":"Cobinhood Token","assetType":{"$ref":"eth:erc20"},"assetId":"0xb2f7eb1f2c37645be61d73953035360e768d81e6","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

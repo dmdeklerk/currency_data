@@ -1,0 +1,1 @@
+﻿{"symbol":"KEY","name":"BihuKey","assetType":{"$ref":"eth:erc20"},"assetId":"0x4cd988afbad37289baaf53c13e98e2bd46aaea8c","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

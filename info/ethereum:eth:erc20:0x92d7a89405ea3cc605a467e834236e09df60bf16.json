@@ -1,0 +1,1 @@
+﻿{"symbol":"SPIRIT","name":"Spirit","assetType":{"$ref":"eth:erc20"},"assetId":"0x92d7a89405ea3cc605a467e834236e09df60bf16","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

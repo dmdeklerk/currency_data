@@ -1,0 +1,1 @@
+﻿{"symbol":"LOCI","name":"LOCIcoin","assetType":{"$ref":"eth:erc20"},"assetId":"0x9c23d67aea7b95d80942e3836bcdf7e708a747c2","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

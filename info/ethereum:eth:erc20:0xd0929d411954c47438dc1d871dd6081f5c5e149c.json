@@ -1,0 +1,1 @@
+﻿{"symbol":"RFR","name":"Refereum","assetType":{"$ref":"eth:erc20"},"assetId":"0xd0929d411954c47438dc1d871dd6081f5c5e149c","blockchain":{"$ref":"ethereum"},"decimals":4,"icon":"*"}

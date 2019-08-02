@@ -1,0 +1,1 @@
+﻿{"symbol":"TIE","name":"Ties.DB","assetType":{"$ref":"eth:erc20"},"assetId":"0x999967e2ec8a74b7c8e9db19e039d920b31d39d0","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}

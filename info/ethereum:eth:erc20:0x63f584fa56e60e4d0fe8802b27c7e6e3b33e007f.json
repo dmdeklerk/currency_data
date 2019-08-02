@@ -1,0 +1,1 @@
+﻿{"symbol":"BOX","name":"ContentBox","assetType":{"$ref":"eth:erc20"},"assetId":"0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f","blockchain":{"$ref":"ethereum"},"decimals":18,"icon":"*"}
